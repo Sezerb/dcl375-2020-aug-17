@@ -1,0 +1,27 @@
+{
+  "name": "sample_project",
+  "version": "1.0.0",
+  "description": "this is a cool project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "mongodb": "^3.5.2",
+    "mustache-express": "^1.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sezerb/sample_project.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Sezerb/sample_project/issues"
+  },
+  "homepage": "https://github.com/Sezerb/sample_project#readme"
+}
